@@ -1,0 +1,119 @@
+---
+title: "Assignment ko"
+output: html_notebook
+---
+
+
+## My song  1{#anchor}
+
+
+
+## my second song 2
+
+
+That *Arizona* sky burning in your **eyes**
+
+You `look` at me and, babe i wanna catch on fire^2^~2~
+
+Its ~~buried~~ in my soul like California gold:\*\_\\
+
+You found the light in me that I coudn't:--,find:---
+
+
+
+
+
+The area of the pie is $A=\pi*r^{2}$
+Another equation $$E=mc^{2}$$
+
+
+>so: when Im choked up 
+
+
+
+#### But I cant find the words
+
+###### every time we say goodbye
+
+###### Baby, it hurts
+
+
+<!--whenthesungoesdown-->
+<!--text comment-->
+
+\textbf{Tex ignored in HTML}<em>HTMLignored in pfds</em>
+
+
+<http://www.rstudio.com>[link](www.rstudio.com)Jump to [Header1](#anchor)image:
+
+![RomilynCaption](smallorb.png)
+
+* Lovers Moon
+  
+  + Lovers moon 2
+  + Lovers Moon 3
+  ~ Kabit
+  
+
+* unodered list
+    + item2
+
+continued(indent 4 spaces)
+
+
+
+1. ordered list
+2. item 2
+  i)sub-item 1
+
+(@) A list of numbering 
+
+continues after
+
+(@) An interruption
+
+
+Term 1
+
+: Definition 1
+
+
+
+|Right |Left |Default | Center|
+|-----:|:-----|:-------|:------:|
+|12 |12 |12 |12 |
+|123 |123 |123 |123 |
+|1 |1 |1 |1 |
+
+
+
+-slide bullet 1
+
+
+-slide bullet 2
+
+
+      
+      
+     
+When the sun goes down
+ And the band wont play
+I'll always remember us this way
+
+
+Lovers in the night 
+Poets trying to write
+We don't know how to rhyme
+But, damn, we try
+But all i really know
+You're where i wanna go
+The part of me that's you will never die
+
+
+A footnote[^1]
+
+
+
+
+
+

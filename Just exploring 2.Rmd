@@ -1,0 +1,60 @@
+---
+title: "Just exploring 2"
+output: pdf
+---
+The **sun** is ***shining*** today.
+
+$$E=>mc^{2}$$
+
+>SANA ALL MAY JOWA 
+
+# AKO NA WALA {#anchor}
+## KASI SINGLE FOREVER {#css_id}
+### HAHAHAHAHAHAAH 
+
+
+
+
+# ***Exploring Diamonds Data set***
+
+
+
+
+
+
+The answer of 2^2^ is 4
+
+
+
+![This is a random snip for our just exploring project](SOME PIC 2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$2^2$ is $4$
